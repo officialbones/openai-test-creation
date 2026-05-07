@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "openai-test-creation",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openai-test-creation-db",
+			"database_id": "288f25f3-5a54-4225-87b6-a418b7a7c2e0"
+		}
+	]
+}
